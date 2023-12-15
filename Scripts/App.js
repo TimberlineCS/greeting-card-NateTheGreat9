@@ -3,8 +3,13 @@
 //Date Dec 15 2023
 
 /*Provide a description about what this program does here*/
+
 // creates a black background with a tree with ornimants on it, with Merry Christmas
 //text at the top, with a moon gif and a song.
+//to see this file, go to a browser tab and open the index file.
+
+//some proplems I ran into was getting the relitive posising to line up corretly, and getting the 
+//image to load properly, and getting things to properly appear on the screen. 
 
 /*Write code to create and manipulate the elements on the index.html page.  
 The elements must come to gether to resemble an image.  Your Greeting Card
