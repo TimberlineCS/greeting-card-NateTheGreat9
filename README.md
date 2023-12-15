@@ -1,8 +1,8 @@
 # Project 2: Greeting Card
 
 * Author: Nathaniel Kohtz
-* Class: CS121 Section X
-* Semester: Spring 2016
+* Class: AP Computer Science
+* Semester: winter 2023
 
 ## Overview
 
