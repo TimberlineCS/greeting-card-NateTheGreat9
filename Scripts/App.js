@@ -15,7 +15,7 @@
 The elements must come to gether to resemble an image.  Your Greeting Card
 must also include text, an image, and music. */
 
-    var background = document.createElement("div"); //creeates the elements on the greeting card
+    var background = document.createElement("div"); //creates the elements on the greeting card
     var tree1 = document.createElement("div");
     var tree2 = document.createElement("div");
     var tree3 = document.createElement("div");
@@ -91,7 +91,8 @@ tree5.style.margin = "0 auto";
 tree5.style.position = "relative";
 tree5.style.top = "-800px";
 
-trunk.style.width = "0px"; //creates the trunk of the tree
+//creates the trunk of the tree
+trunk.style.width = "0px"; 
 trunk.style.height = "0px";
 trunk.style.border = "solid 20px";
 trunk.style.borderColor = "brown";
@@ -144,7 +145,7 @@ moon.style.top = "-1350px";
 moon.style.left ="1000px";
 
 
-
+//creates the music for the greeting card
 var music = new Audio("Music/carol-of-the-bells-xmas-background-hip-hop-music-for-video-60-second-178242.mp3");//creates the music
 music.controls = true;
 
@@ -162,6 +163,5 @@ music.controls = true;
     background.append(light2); 
     background.append(light3); 
     background.append(light4); 
-    background.append(moon);  
-  
+    background.append(moon);    
     document.body.appendChild(music);
