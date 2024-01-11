@@ -91,7 +91,25 @@ tree5.style.margin = "0 auto";
 tree5.style.position = "relative";
 tree5.style.top = "-800px";
 
-//creates the trunk of the tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 trunk.style.width = "0px"; 
 trunk.style.height = "0px";
 trunk.style.border = "solid 20px";
